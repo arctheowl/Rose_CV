@@ -1,0 +1,75 @@
+{
+  "Information": {
+    "Name": "Rose Burrell",
+    "Description": "Throughout my professional career I have had the opportunity to work with many exceptional colleagues, and to expand my skill set. I hold an English Literature and Creative Writing degree. This has given me an excellent understanding of grammar and punctuation with a strong attention to detail. My working life has been varied and has therefore allowed me to find what I am passionate about and what I thrive at. In each of my jobs I have found enjoyment in working collaboratively with others and in seeing projects through from inception to completion. I thrive under pressure and enjoy taking on a range of tasks.",
+    "Location": "11A Wood Lane, Fleet, Hampshire GU51 3DX",
+    "Current_Role": "Operations Assistant",
+    "Phone_Number": "07540323293",
+    "Email": "roseburrell@hotmail.co.uk"
+  },
+  "Education": [
+    {
+      "Degree": "PRIMARY CORE PGCE",
+      "School": "WARWICK UNIVERSITY",
+      "Years": "SEPTMEBER 2020 - JULY 2021",
+      "Description": "I undertook my Primary Core 5-11 PGCE through the University of Warwick and graduated with QTS."
+    },
+    {
+      "Degree": "ENGLISH LITERATURE AND CREATIVE WRITING",
+      "School": "THE OPEN UNIVERSITY",
+      "Years": "SEPTMEBER 2020 - JULY 2021",
+      "Description": "I undertook my Primary Core 5-11 PGCE through the University of Warwick and graduated with QTS."
+    },
+    {
+      "Degree": "GCSE's",
+      "School": "CALTHROPE PARK SECONDARY SCHOOL",
+      "Years": "SEPTEMBER 2007 - JUNE 2012",
+      "Description": "I achieved 8 GCSE's graded A-C including, English Literature, English Language, Maths, and Science."
+    }
+  ],
+
+  "Experience": [
+    {
+      "Title": "SCRUM MASTER (OPERATIONS ASSISTANT)",
+      "Employer": "TWINKL",
+      "Location": "WFH",
+      "Dates": "JANUARY 2022 - CURRENT",
+      "Description": "My role at Twinkle sees me managing 6 product teams. While my job title is Operations Assistant, this is Twinkls version of a Scrum Master. Through this I have gained knowledge and experience of utilising Agile tools and techniques. Working with 6 vastly different teams each day to ensure 2 they all stay on track, and work efficiently has given me a wealth of experience in finding the right fit for each project and team. I am constantly listening to the team, spotting where things could be improved, and using data to develop new approaches that benefit the company. Each of my teams have different deadlines and structures of work, meaning I can deliver projects with varying pace and structure. I work cross functionally daily, collaborating with colleagues from across the company to deliver excellent products. A fast paced and continually developing environment has shown that I am able to revise team priorities and delegate to ensure the team stay on track and focused. I get a large amount of my job satisfaction through working collaboratively with others, and through helping team members develop and thrive. I enjoy what I do and am constantly looking for ways to continue to develop.",
+      "Skills": []
+    },
+    {
+      "Title": "COVER SUPERVISOR",
+      "Employer": "ENDEAVOUR PRIMARY SCHOOL",
+      "Location": "Andover",
+      "Dates": "SEPTEMBER 2021 - JANUARY 2022",
+      "Description": "As a qualified teacher I took on the role of Cover Supervisor. This role allowed me to teach children across the primary age range and I have experience teaching young people from Reception right through to Year 6.",
+      "Skills": []
+    },
+    {
+      "Title": "DECEMBER 2018 - MARCH 2020",
+      "Employer": "C BREWER & SONS",
+      "Location": "Guilford",
+      "Dates": "DECEMBER 2018 - MARCH 2020",
+      "Description": "My time at Brewers was also varied and diverse. I further developed my IT skills as my daily routine included inputting large quantities of data and producing daily reports. As part of the digital development team, I gained experience in transitioning many of the businesses processes to online processes, always keeping in mind the end user. I worked extensively with colleagues from around the country and members of the public allowing me to gain experience with a wide variety of different people from all different backgrounds and experiences. I worked on multiple projects during my time at brewers allowing me to prioritise my workload and showing my ability to multitask.",
+      "Skills": []
+    },
+    {
+      "Title": "ADMIN ASSISTANT",
+      "Employer": "CANE ADAM",
+      "Location": "Guilford",
+      "Dates": "MARCH 2013 - NOVEMBER 2018",
+      "Description": "At Cane Adam, I had a variety of roles including, bought ledger, accounts, sales advisor, web developer, social media admin as well as many other office tasks. One of my main tasks was maintaining and running the company website. Through my time at Cane Adam, I would be communicating with a variety of people both through written and oral communication therefore I became a confident communicator.",
+      "Skills": []
+    }
+  ],
+  "Skills": [
+    "Time management",
+    "Multitasking and prioritising",
+    "Desire to learn and continue professionally developing",
+    "Friendly and a good communicator",
+    "Excellent IT skills",
+    "Great attention to detail"
+  ],
+
+  "Activities": [{ "Title": "" }, { "Description": "Through my role at Cane Adam, I had the opportunity to visit Kimilili, Kenya in 2018. While in Kenya I worked alongside the children at the Dreamland Mission hospital and the Dreamland Mission School. Since returning from Kenya I have done annual charity events to help raise funds for the hospital and school. In 2019 I organised and ran a community fun day to help raise money for Dementia UK, the event helped to raise thousands of pounds for the charity. I also run a monthly book club aimed at younger people as I noticed in 2019 that there was a gap in my local community for such a group. We have been meeting up and sharing a love of books for over 3 years. During my free time I enjoy creating zines around topics that interest me and those that I am passionate about, this has included drumming, interior design, and animals." }]
+}
